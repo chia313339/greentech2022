@@ -82,7 +82,7 @@ section .row {
 }
 @media (max-width: 1200px) {
   .nav_link a {
-    padding: 8px 10px;
+    padding: 8px 7px;
   }
 }
 @media (max-width: 768px) {
